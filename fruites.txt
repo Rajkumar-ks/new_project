@@ -4,4 +4,7 @@ good
 idea
 Edited file
 
+banana
+apple
+
 bye
